@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    border: 2px solid black;
+    width: 50%;
+    margin-top: 5px;
+    background-color: whitesmoke;
+    color: black;
+    
+}
+.accordion_item{
+    display: flex;
+    padding-left: 10px;
+}
+.accordion_content{
+    padding-left: 10px;
+}
+.sign{
+    padding-top: 0px;
+    padding-left: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
