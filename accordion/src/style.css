@@ -1,0 +1,12 @@
+.container{
+    border: 3px solid rgb(168, 168, 247);
+    margin-top: 10px;
+    width: 50%;
+    margin-left: 300px;
+    background-color: white;
+    color: black;
+}
+.item_container{
+    display: flex;
+    
+}
